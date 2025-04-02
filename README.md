@@ -42,14 +42,6 @@ http://localhost:3000
 - Use the admin panel to add, edit, or delete profiles.
 - Use search functionality to filter profiles.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 🤝 Contributions
 Feel free to fork the project, create a feature branch, and submit a pull request.
-
-## 📞 Support
-For issues, please raise an issue on GitHub or contact me at [your-email@example.com].
-
-Enjoy exploring profiles and their locations!
 
